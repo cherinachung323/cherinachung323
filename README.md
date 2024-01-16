@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing the volleyball
 - 🌱 I’m currently learning data analysis
 - 💞️ I’m looking to collaborate on all sorts of projects
-- 📫 How to reach me ? Send me an email at ellyellymuah@gmail.com
+- 📫 How to reach me ? Send me an email at cherina.chung@gmail.com
 
 <!---
 cherinachung323/cherinachung323 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
