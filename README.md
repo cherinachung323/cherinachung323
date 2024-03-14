@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cherinachung323
 - 👀 I’m interested in playing the volleyball
-- 🌱 I’m currently learning data analysis
+- 🌱 I’m proficient in Python and SQL
 - 💞️ I’m looking to collaborate on all sorts of projects
 - 📫 How to reach me ? Send me an email at cherina.chung@gmail.com
 
